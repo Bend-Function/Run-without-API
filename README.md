@@ -5,7 +5,7 @@ Install Run-without-API-py3.whl
 The programm which needs TensorFlow Object Detection API can run in any computer which is not setup the API.
 
 ps：just run test programm
------------------------------------------------------------------
+________________________________________________________________
 安装Run-without-API-py3.whl 
 
 你就可以在任何没有安装TensorFlow Object Detection API的电脑上运行这个API的检测程序了
@@ -20,7 +20,7 @@ if you see two images which have sign after you run the programm(maybe it will c
 
 It shows the package was installed successfuly.
 
------------------------------------------------------------------
+________________________________________________________________
 
 object_detection_tutorial.py & test_images 这是测试的程序
 
@@ -53,7 +53,7 @@ from object_detection.utils import label_map_util
 
 from object_detection.utils import visualization_utils as vis_util
 
------------------------------------------------------------------
+________________________________________________________________
 
 使用这个“库”的方法：
 
@@ -80,6 +80,6 @@ from object_detection.utils import visualization_utils as vis_util
 
 Also,you have to install Tensorflow & PIL(pillow) & matplotlib.they will using in demo.
 
------------------------------------------------------------------
+________________________________________________________________
 
 当然，您必须安装Tensorflow & PIL(pillow)和matplotlib。他们将在demo中使用。
