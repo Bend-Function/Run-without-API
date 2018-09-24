@@ -1,6 +1,6 @@
 # Run-without-API
 
--part 1
+-Part 1
 -
 
 Install Run-without-API-py3.whl 
@@ -15,7 +15,7 @@ ________________________________________________________________
 你就可以在任何没有安装TensorFlow Object Detection API的电脑上运行这个API的检测程序了
 
 
--part2
+-Part2
 -
 
 object_detection_tutorial.py & test_images is a test programm & test images.
