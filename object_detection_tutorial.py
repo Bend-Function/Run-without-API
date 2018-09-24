@@ -6,8 +6,9 @@ import tarfile
 import tensorflow as tf
 import zipfile
 import cv2
-import obapi
 
+from obapi import label_map_util
+from obapi import visualization_utils as vis_util
 from collections import defaultdict
 from io import StringIO
 from matplotlib import pyplot as plt
