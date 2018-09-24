@@ -18,4 +18,30 @@ object_detection_tutorial.py & test_images 这是测试的程序
 如果你在程序运行最后看到两张带标注的图片（大概一分钟）
 那么说明这个"库"安装成功了
 
+The using method of this package:
+using:
+from obapi import label_map_util
+from obapi import visualization_utils as vis_util
 
+instend：
+from utils import label_map_util
+from utils import visualization_utils as vis_util
+or
+from object_detection.utils import label_map_util
+from object_detection.utils import visualization_utils as vis_util
+
+
+使用这个“库”的方法：
+使用
+from obapi import label_map_util
+from obapi import visualization_utils as vis_util
+
+替换：
+from utils import label_map_util
+from utils import visualization_utils as vis_util
+或
+from object_detection.utils import label_map_util
+from object_detection.utils import visualization_utils as vis_util
+
+Also,you have to install Tensorflow & PIL(pillow) & matplotlib.they will using in demo.
+当然，您必须安装Tensorflow & PIL(pillow)和matplotlib。他们将在demo中使用。
