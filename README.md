@@ -1,4 +1,5 @@
 # Run-without-API
+My bilibili speace : https://space.bilibili.com/275177832
 
 -Part 1
 -
@@ -7,7 +8,7 @@ Install Run-without-API-py3.whl
 
 The programm which needs TensorFlow Object Detection API can run in any computer which is not setup the API.
 
-ps：just run test programm
+ps：just run test programm,couldn't training
 ________________________________________________________________
 
 安装Run-without-API-py3.whl 
