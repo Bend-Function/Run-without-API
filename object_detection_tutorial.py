@@ -5,7 +5,6 @@ import sys
 import tarfile
 import tensorflow as tf
 import zipfile
-import cv2
 
 from obapi import label_map_util
 from obapi import visualization_utils as vis_util
