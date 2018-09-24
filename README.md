@@ -19,7 +19,7 @@ ________________________________________________________________
 -Part2
 -
 
-object_detection_tutorial.py & test_images is a test programm & test images.
+object_detection_tutorial.py & test_images & data is a test programm & test images.
 
 You shuld download them tegother and let them in a same folder.
 
@@ -29,7 +29,7 @@ It shows the package was installed successfuly.
 
 ________________________________________________________________
 
-object_detection_tutorial.py & test_images 这是测试的程序
+object_detection_tutorial.py & test_images & data 这是测试的程序几个部分
 
 你必须一起下载，并放在一个文件夹下
 
