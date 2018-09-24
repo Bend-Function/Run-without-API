@@ -18,7 +18,7 @@ object_detection_tutorial.py & test_images 这是测试的程序
 如果你在程序运行最后看到两张带标注的图片（大概一分钟）
 那么说明这个"库"安装成功了
 
-The using method of this package:
+The using method of this package:\n
 using:
 
 from obapi import label_map_util
