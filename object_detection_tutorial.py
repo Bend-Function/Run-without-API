@@ -35,6 +35,8 @@ PATH_TO_LABELS = os.path.join('data', 'mscoco_label_map.pbtxt')
 
 NUM_CLASSES = 90
 
+# if you downloaded model.You can del this code which is in the box(#).
+###################################################
 #download model
 opener = urllib.request.URLopener()
 #下载模型，如果已经下载好了下面这句代码可以注释掉
@@ -44,6 +46,7 @@ for file in tar_file.getmembers():
   file_name = os.path.basename(file.name)
   if 'frozen_inference_graph.pb' in file_name:
     tar_file.extract(file, os.getcwd())
+####################################################
 
 #Load a (frozen) Tensorflow model into memory.
 detection_graph = tf.Graph()
