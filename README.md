@@ -3,7 +3,7 @@ My bilibili speace : https://space.bilibili.com/275177832
 
 English Video(On raspberry pi):https://www.bilibili.com/video/av33037320/
 
-                           or :https://www.youtube.com/
+or :https://www.youtube.com/watch?v=k9XwHWEEM20
 
 -Part 1
 -
